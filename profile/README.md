@@ -1,5 +1,7 @@
 # **Wiki Team 22 - GUARAP**
 
+Wiki link [here](https://github.com/ISIS3510-202320-Team22/Wiki/wiki)
+
 ## Repositories
 * [Flutter](https://github.com/ISIS3510-202320-Team22/Flutter)
 * [Swift](https://github.com/ISIS3510-202320-Team22/Swift)
